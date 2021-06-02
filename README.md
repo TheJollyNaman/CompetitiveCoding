@@ -1,4 +1,8 @@
 # CompetitiveCoding 👨‍💻
-## This is my repository which contains all my contest code/upsolved code, etc!!!
-You can find my A2OJ Ladder solutions, Codeforces/Codechef solution here in this repo.
+This is my repository which contains all my contest codes, upsolved code etc!!!
 
+## Table of Contents 💻
+* CodeChef
+* CodeForces
+* Google Competitions 
+* Static A2OJ
