@@ -12,8 +12,13 @@ int main()
 
     cin >> t;
 
-    while (t--)
+    if (t % 2 == 0 && t >= 4)
     {
+        cout << "YES";
+    }
+    else
+    {
+        cout << "NO";
     }
 
     return 0;
